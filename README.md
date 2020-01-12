@@ -1,6 +1,5 @@
 # home-WebGL-movingball-ahagenstein
 
-# Template Repository for Unity3D version 2019.1.14f1
 
 ### Project description: 
 WebGl repository moving a ball  
