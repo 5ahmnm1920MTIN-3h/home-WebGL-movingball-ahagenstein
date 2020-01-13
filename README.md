@@ -1,6 +1,7 @@
 # home-WebGL-movingball-ahagenstein
 
 
+
 ### Project description: 
 This simple project consists of a screen-independent canvas (960x600), 
 a button (Move Ball), a text (title with developer name), a script (moving the ball with the button), 
@@ -44,6 +45,9 @@ https://pixabay.com/de/images/search/basketball/
 
 ### Project state: 
 
+nearly done, can't link the finished project in my README.md
+
+99%
 
 
 ### Limitations: 
